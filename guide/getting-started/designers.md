@@ -20,21 +20,21 @@ There are a variety of plugins available for Sketch. Here is a short list of plu
 
 #### Required
 
-* [Craft Manager](https://www.invisionapp.com/craft): Suite of plugins by Invision to help streamline your workflow. (**Note:** This is required to use the DSM Component library)
+- [Craft Manager](https://www.invisionapp.com/craft): Suite of plugins by Invision to help streamline your workflow. (**Note:** This is required to use the DSM Component library)
 
-* [Launchpad by Anima](https://animaapp.github.io/): Customize designs with responsive settings (**Note**: Without this plugin, some of the responsive components will not work properly)
+- [Launchpad by Anima](https://animaapp.github.io/): Customize designs with responsive settings (**Note**: Without this plugin, some of the responsive components will not work properly)
 
-* [Paddy](https://github.com/DWilliames/paddy-sketch-plugin): Create components with fixed padding (**Note**: Used for automatic resizing of our button component)
+- [Paddy](https://github.com/DWilliames/paddy-sketch-plugin): Create components with fixed padding (**Note**: Used for automatic resizing of our button component)
 
 #### Recommended
 
-* [Sketch Toolbox](http://sketchtoolbox.com/): Manage and install your Sketch plugins
+- [Sketch Toolbox](http://sketchtoolbox.com/): Manage and install your Sketch plugins
 
-* [Shared Text Styles](http://www.textstyl.es/): Import/export text styles within your Sketch files
+- [Shared Text Styles](http://www.textstyl.es/): Import/export text styles within your Sketch files
 
-* [Nudge Push Shove](http://nudgepushshove.com/): Set up custom nudge settings
+- [Nudge Push Shove](http://nudgepushshove.com/): Set up custom nudge settings
 
-* [Dynamic Button](https://github.com/fuggfuggfugg/sketch-dynamic-button-3.5): Create components with fixed padding
+- [Dynamic Button](https://github.com/fuggfuggfugg/sketch-dynamic-button-3.5): Create components with fixed padding
 
 ## Setting up Invision
 
@@ -50,13 +50,13 @@ TDS has two projects set up on Invision:
 
 These are both working projects that continue to get updated, and improved on as we add components and blocks to the system.
 
-# Assets
+## Assets
 
 ## TDS component library
 
 There are two component libraries available in TDS to help you with your designs, TDS components and TDS Blocks (as mentioned in the previous section). These libraries are part of DSM (Design Systems Manager) and is accessilble through Craft Manager. Follow the below instructions to get set up with the component libraries.
 
-### What you’ll need:
+### What you’ll need
 
 1. **Invision DSM** (Design Systems Manager): You should have access to DSM if you have access to TELUS Invision Enterprise. If not, please contact your Invision administrator ([@BrianLam1](mailto:Brian.Lam1@telus.com)) or your design lead so they can add you to DSM and Invision Enterprise.
 
@@ -165,7 +165,7 @@ The brand team is working towards creating a library of lifestyle photography. U
 
 Please follow the [TELUS Brand Photography Guidelines](https://drive.google.com/a/telus.com/file/d/0BzlWahrSc56DenY4YzBndm1mWkk/view?usp=sharing) for detailed information on usage and implementation of the images.
 
-# Releases
+## Releases
 
 The TELUS Design System team often makes design improvements to the TDS component library and Master Sketch file. We track all release updates in our version page in the Master Sketch file and on the [DSM release page](https://telus.invisionapp.com/dsm/telus/telus-design-system/releases) on Invision.
 
@@ -175,6 +175,6 @@ When TDS makes releases you will get notified the next time you are on Sketch an
 
 Releases updates to the system can be found on the [release notes on Github](https://github.com/telusdigital/tds-core/releases), so check back frequently for updates to the system.
 
-# Support
+## Support
 
 Please take the time to join our [#TDS-Guild Slack channel](https://telusdigital.slack.com/messages/C2WK9TP5F). It's the perfect place for general discussions, announcements, and design questions related to TDS. For further help please see our [Support Page](../contact.html)
